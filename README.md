@@ -2,4 +2,4 @@
 
 Visit https://viajesbaratoseuropa.com/
 
-This repo is here to make the site quicker. ;)
+This repo is here to make the site even quicker. ;)
